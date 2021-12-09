@@ -1,0 +1,7 @@
+.dib--min{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    widtd: 200px;
+    height: 300px;
+}
